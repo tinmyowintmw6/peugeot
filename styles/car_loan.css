@@ -1,0 +1,100 @@
+.home_car_loan {
+  width: 100%;
+  height: 62vh;
+}
+.latest_model_content_car_loan{
+  background: #ffffff;
+  padding: 3rem 0 3rem;
+}
+.latest_model_content_car_loan .inquiry_car_online_booking {
+  background: #ffffff;
+  box-shadow: 0px 8px 24px rgb(0 0 0 / 16%);
+  border-top: 4px solid #00A3E0;
+}
+.page_content_buy_online p {
+  text-align: center;
+}
+.page_content_buy_online_service {
+  background: #ffffff;
+  padding: 3rem 0 3rem;
+}
+.wrap_book {
+  padding: 0 0 47px;
+  box-shadow: 0px 8px 24px rgb(0 0 0 / 16%);
+}
+.car_loan_calculate h2.car_loan_title_ {
+  background: #00A3E0;
+  font-size: 17px;
+  color: #ffffff;
+  padding: 12px;
+  text-align: center;
+  font-weight: 600;
+}
+.booking_form_online_loan{
+  padding: 0 2rem 2rem;
+}
+.booking_form_online_loan .icon {
+  padding: 15px;
+  min-width: 50px;
+  text-align: center;
+	position: absolute;
+    right: 0;
+}
+/* .booking_form_online_loan {
+  padding: 3rem 2rem 2rem;
+  background: #EBEBEB;
+} */
+.booking_form_online_loan form{
+  display:none;
+
+}
+.input-container-loan label {
+  margin-top: 2rem;
+  color: #222222;
+  font-weight: 800;
+}
+.loan_calculate{
+  margin-top: 1rem;
+}
+.car_loan_results_title {
+  font-size: 17px;
+  font-weight: 700;
+  color: #222222;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  line-height: 0.75;
+  border-bottom: 2px solid #717171;
+  padding: 9px 0;
+  text-align: center;
+}
+.input-group-result input {
+  border: none;
+  background: none;
+  padding: 1rem;
+  width: 100%;
+  text-align: right;
+  position: relative;
+  top: -1rem;
+  left: 1rem;
+}
+label.lft_title {
+  color: #222222;
+  font-weight: 500;
+  position: absolute;
+}
+.clear:after {
+  position: relative;
+  color: #373737;
+  font-size: 20px;
+}
+input:invalid + .clear {
+  visibility: hidden;
+}
+.car_loan .clear {
+  width: 58px;
+  background: #00A3E0;
+  padding: 6px;
+  text-align: center;
+  cursor: pointer;
+  color: #ffffff;
+}

@@ -1,0 +1,214 @@
+.home_service_care {
+  width: 100%;
+  height: 62vh;
+}
+.model_content_car_service{
+  background: #ffffff;
+  padding: 3rem 0 3rem;
+}
+.model_content_car_service .inquiry_car_online_booking {
+  background: #ffffff;
+  box-shadow: 0px 8px 24px rgb(0 0 0 / 16%);
+  border-top: 4px solid #00A3E0;
+}
+.page_content_buy_online_service p {
+  text-align: center;
+}
+.page_content_buy_online_service {
+  background: #ffffff;
+  padding: 3rem 0 3rem;
+}
+.wrap_book_service {
+  padding: 0 0 47px;
+  box-shadow: 0px 8px 24px rgb(0 0 0 / 16%);
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  background: #ffffff;
+}
+.car_loan_calculate h2.car_loan_title_ {
+  background: #00A3E0;
+  font-size: 17px;
+  color: #ffffff;
+  padding: 12px;
+  text-align: center;
+  font-weight: 600;
+}
+.booking_form_online_loan{
+  padding: 0 2rem 2rem;
+}
+.booking_form_online_loan .icon {
+  padding: 15px;
+  min-width: 50px;
+  text-align: center;
+	position: absolute;
+    right: 0;
+}
+
+.booking_form_online_loan form{
+  display:none;
+
+}
+.model_content_car_service {
+  padding: 3rem 0 3rem;
+  background: url(../images/service_background.png) no-repeat center center;
+  background-size: cover;
+  background-color: #222222;
+}
+.main_content_book_service {
+  padding: 2rem;
+}
+.main_content_book_service img {
+  width: 100%;
+  height: auto;
+}
+.main_content_book_service button {
+	border: none;
+	background: #00A3E0;
+	padding: 16px 7px 20px;
+	position: relative;
+	left: 14rem;
+}
+.main_content_book_service .form_border h5 {
+	color: #222222;
+	text-align: center;
+	font-size: 20px;
+}
+.wrap_section {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.slider {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
+  margin-top: 4rem;
+}
+
+.slide_viewer {
+  height: 246px;
+  overflow: hidden;
+  position: relative;
+}
+
+.slide_group {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.slide {
+  display: none;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.slide:first-child {
+  display: block;
+}
+
+/*.slide:nth-of-type(1) {
+  background: #D7A151;
+}
+
+.slide:nth-of-type(2) {
+  background: #F4E4CD;
+}
+
+.slide:nth-of-type(3) {
+  background: #C75534;
+}
+
+.slide:nth-of-type(4) {
+  background: #D1D1D4;
+}*/
+
+.slide_buttons {
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+}
+
+a.slide_btn {
+  color: #474544;
+  font-size: 42px;
+  margin: 0 0.175em;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.slide_btn.active, .slide_btn:hover {
+  color: #428CC6;
+  cursor: pointer;
+}
+
+.directional_nav {
+  height: 29px;
+  margin: 0 auto;
+  max-width: 940px;
+  position: relative;
+  top: -9rem;
+}
+
+.previous_btn {
+  bottom: 0;
+  left: -10rem;
+  margin: auto;
+  position: absolute;
+  top: 0;
+}
+
+.next_btn {
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+  right: -10rem;
+  top: 0;
+}
+
+.previous_btn, .next_btn {
+  cursor: pointer;
+  height: 65px;
+  opacity: 0.5;
+  -webkit-transition: opacity 0.4s ease-in-out;
+  -moz-transition: opacity 0.4s ease-in-out;
+  -ms-transition: opacity 0.4s ease-in-out;
+  -o-transition: opacity 0.4s ease-in-out;
+  transition: opacity 0.4s ease-in-out;
+  width: 65px;
+}
+
+.previous_btn:hover, .next_btn:hover {
+  opacity: 1;
+}
+
+/* @media only screen and (max-width: 767px) {
+  .previous_btn {
+    display: none;
+  }
+  .next_btn {
+    display: none;
+  }
+} */
+.page_content_service_slide {
+  background: #000000;
+  padding: 3rem 0 3rem;
+}
+.slide_viewer .slide p {
+  color: #DDDDDD;
+}
+.online_car_title_service{
+    font-size: 20px;
+    font-weight: 900;
+    color: #ffffff;
+}
+h4.servicees_title {
+  font-size: 13px;
+  font-weight: 900;
+  color: #ffffff;
+}

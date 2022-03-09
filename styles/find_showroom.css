@@ -1,0 +1,38 @@
+
+/***************Find A Showroom*******************/
+.home_showroom{
+  width: 100%;
+  height: 62vh;
+}
+.showroom_content {
+  padding: 3rem 0 3rem;
+  background: #ffffff;
+}
+.main_content_showroom li.showroom_address p {
+  color: #717171;
+  padding-left: 28px;
+} 
+.main_content_showroom li.showroom_address i {
+  font-size: 20px;
+  position: absolute;
+}
+.main_content_showroom .showroom_address {
+  padding-top: 21px;
+}
+h4.subtitle_showroom {
+  font-size: 13px;
+  font-weight: 900;
+  color: #222222;
+}
+.showroom_content h2.model_tile_showroom {
+  font-size: 20px;
+  font-weight: 900;
+  color: #222222;
+  border-bottom: 2px solid #00A3E0;
+  margin-bottom: 2rem;
+  padding-bottom: 10px;
+}
+.showroom_content .home_slider_item_category {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
